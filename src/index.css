@@ -16,7 +16,7 @@ code {
 
 button {
   box-shadow: 1px 1px;
-  outline: red 2px solid;
+  outline: rgb(110, 60, 168) 2px solid;
   text-decoration: none;
   background: none;
   border: none;
