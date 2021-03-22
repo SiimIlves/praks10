@@ -18,6 +18,7 @@ return (
 const App = () => {
 return (
   <div>
+    <h1>Counters</h1>
     <Counter step={1} />
     <Counter step={2} />
     <Counter step={0.1} />
